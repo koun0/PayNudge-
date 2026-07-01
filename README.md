@@ -171,3 +171,8 @@ This project demonstrates:
 PayNudge is a frontend SaaS MVP built to demonstrate product thinking, UI design, React component architecture, state management, dashboard logic, and readiness for future full-stack integrations.
 
 It is intentionally scoped as an MVP: the user experience is functional and polished, while backend services such as Supabase, Stripe, and AI-powered message generation can be added later.
+
+
+<img width="1872" height="912" alt="plug11" src="https://github.com/user-attachments/assets/47f97777-e53d-42e1-93cb-985183207589" />
+
+
