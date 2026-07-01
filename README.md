@@ -174,5 +174,7 @@ It is intentionally scoped as an MVP: the user experience is functional and poli
 
 
 <img width="1872" height="912" alt="plug11" src="https://github.com/user-attachments/assets/47f97777-e53d-42e1-93cb-985183207589" />
+<img width="1890" height="927" alt="plug13" src="https://github.com/user-attachments/assets/a9a3a85b-d216-4c1e-a46b-2e701a811c9a" />
+
 
 
